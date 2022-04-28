@@ -21,7 +21,10 @@ export default function Home({ allPostsData }) {
                 <title>{siteTitle}</title>
             </Head>
             <section className={utilStyles.headingMd}>
-                <p>Salut cher visiteur de mon super site créé avec Nextjs !</p>
+                <p>
+                    Salut cher visiteur (coucou Mamie) de mon super site créé
+                    avec Nextjs !
+                </p>
                 <p>
                     J'ai mis quelques jours avant de comprendre comment marche
                     le framework, mais maintenant je comprends bien la
